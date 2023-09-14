@@ -1,0 +1,16 @@
+ship   
+    name
+    hall amount
+    shield amount
+    weapons
+
+    recharge(shields)
+    takeDamage
+
+weapon 
+    name
+    damageTypes(-Heavy, Normal, IOn
+    damageAmount
+    
+    fire)
+    

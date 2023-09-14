@@ -1,0 +1,17 @@
+Library
+    Books
+Patron
+    name - String
+    has book? - Boolean
+    book checked out - String
+
+    return book
+    checkout book
+Book
+    title - String
+    author - String
+    # of copies - Int
+    # checed out - int
+    Availability - Availability
+
+
